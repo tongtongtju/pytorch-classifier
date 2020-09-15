@@ -1,4 +1,4 @@
-# pytorch-classifier
+# car condition classifier of MorvanZhou - Pytorch version
 Pytorch version code for the classifier in https://github.com/MorvanZhou/train-classifier-from-scratch
 
 video source: https://www.bilibili.com/video/BV1UW411b75B
